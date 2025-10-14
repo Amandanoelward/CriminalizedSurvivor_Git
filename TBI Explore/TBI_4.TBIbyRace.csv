@@ -1,7 +1,7 @@
-﻿,Everyone,White,Black or African American,Hispanic or Latina/o,Biracial/Multiracial
-TBI From Partner Violence Ever,50.00,52.9,40.3,38.6,71.4
-TBI From Partner Violence Year Before Conviction,66.5,62.5,65.5,84.4,75
-TBI From Non-Partner Violence Ever,46.3,45.3,41.9,41,65.9
-TBI from Non-Viol Causes Ever,52.5,55.4,44.6,49.4,59.3
-TBI Any Cause Ever,74.4,77.2,65.4,69.9,87.9
-Diagnosed with TBI or received Services for TBI,6,5.9,5.4,4.8,9.9
+﻿,Sort,Everyone,White,Black or African American,Hispanic or Latina/o,Biracial/Multiracial
+TBI From Partner Violence Ever ,H1. Did a partner ever do any of the following to cause a head injury? Select all that apply.  ,50,52.9,40.3,38.6,71.4
+TBI From Partner Violence Year Before Conviction,"H2. In the year before your current conviction, Did a partner cause a head injury that made you lose conciousness, pass out, black out or feel dizzy?",66.5,62.5,65.5,84.4,75
+TBI From Non-Partner Violence Ever,"H3. Not including a partner, did another person ever (family member, stranger, etc.) cause a head injury that made you lose consciousness, pass out, black out, or feel dizzy? OR H4.Have you ever experienced a head injury from the following_ViolentAssault/Sexual Assault from Stranger",46.3,45.3,41.9,41,65.9
+TBI from Non-Viol Causes Ever,H4. Have you ever experienced a head injury from the following? Select all that apply.  ,52.5,55.4,44.6,49.4,59.3
+TBI Any Cause Ever,"H1, H3, H4",74.4,77.2,65.4,69.9,87.9
+Diagnosed with TBI or received Services for TBI,H7. Have you ever received services or been diagnosed with the following health conditions?,6,5.9,5.4,4.8,9.9
